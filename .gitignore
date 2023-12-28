@@ -2,4 +2,4 @@
 *.sln
 .vs
 *.csproj
-*.csproj.user
+*.user
