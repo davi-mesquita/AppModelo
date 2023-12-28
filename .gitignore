@@ -1,3 +1,5 @@
 #Ignore Arquivos de solução e criação do projeto
 *.sln
 .vs
+*.csproj
+*.csproj.user
