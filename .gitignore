@@ -3,3 +3,8 @@
 .vs
 *.csproj
 *.user
+*.dll
+*.pdb
+src/DevIO.AppModelo/bin/*
+src/DevIO.AppModelo/obj/*
+
