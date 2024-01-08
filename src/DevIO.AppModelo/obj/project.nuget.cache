@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jPOjBfi6A67nTi7FTEHv9/Auf0U8pMfyIBcL6ofyz794HASfpaxYX+XysIgVMCI1458hc/hzz5LyScFjElxCJw==",
+  "dgSpecHash": "FqZ00l6F7EKQSSPZ5JOyDNi2iJH5jFh8QWaAbuCR4GrRAy71MDrhgeIriLTBX1jXWMK7oJtHixoJGqAnnGYz8Q==",
   "success": true,
   "projectFilePath": "C:\\CursoDevIo\\Asp.Net-Core-MVC\\AppModelo\\src\\DevIO.AppModelo\\DevIO.AppModelo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\INFO - DAVI\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512"
+  ],
   "logs": []
 }
