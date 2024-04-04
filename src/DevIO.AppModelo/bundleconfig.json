@@ -12,11 +12,5 @@
       "wwwroot/lib/jquery/dist/jquery.js",
       "wwwroot/js/site.js"
     ]
-  },
-  {
-    "outputFileName": "wwwroot/js/bootstrap.min.js",
-    "inputFiles": [
-      "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
-    ]
   }
 ]

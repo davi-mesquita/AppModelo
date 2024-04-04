@@ -5,8 +5,7 @@
     <title>@ViewData["Title"] - AppMvcBasica</title>
 
     <environment include="Development">
-       <link href="~/css/site_bundle_min.css" rel="stylesheet" />
-        <link href="~/css/site_bundle_min.min.css" rel="stylesheet" />
+       <link href="~/css/site_bundle.min.css" rel="stylesheet" />
     </environment>
     <environment exclude="Development">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
@@ -56,8 +55,9 @@
     </footer>
 
     <environment include="Development">
-        <script src="~/js/site_bundle_min.js"></script>
-        <script src="~/js/bootstrap_min.js"></script>
+        <script src="~/js/site_bundle.min.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.js"></script>
     </environment>
     <environment exclude="Development">
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"
